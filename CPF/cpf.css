@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(17, 9, 32);
+}
+#main{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15%;
+    
+    
+}
+
+#titulo{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.cor{
+    background-color: rgb(133, 141, 209);
+    padding-bottom: 7%;
+    border-radius: 5px;
+
+}
+
+#botao{
+    margin-top: 3%;
+    font-size: 18px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    background-color: rgb(107, 107, 192);
+}
+
+#botao:hover{
+    background-color: rgb(16, 16, 32);
+    color: bisque;
+}
+
+#cpf{
+    padding: 3px 3px 3px 3px;
+    border-radius: 4px;
+}
+
